@@ -2,4 +2,4 @@
 u2048 C# Game by Viraj Dere
 
 Author: Viraj Dere
-![VIDEO](https://github.com/vdere/2048/blob/main/screen-capture.webm)
+![VIDEO](https://github.com/vdere/2048/blob/main/screen-capture.gif)
