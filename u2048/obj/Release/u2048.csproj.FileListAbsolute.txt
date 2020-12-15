@@ -1,0 +1,11 @@
+C:\Users\jakowskiuki\Desktop\u2048\u2048\bin\Release\u2048 - Lukasz Jakowski.exe.config
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.exe.config
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.exe
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\bin\Release\u2048 - Lukasz Jakowski.pdb
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048.csprojAssemblyReference.cache
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048.Main.resources
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048.Properties.Resources.resources
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048.csproj.GenerateResource.cache
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048.csproj.CoreCompileInputs.cache
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048 - Lukasz Jakowski.exe
+C:\Users\vdere\OneDrive\Desktop\u2048_Jakowski-master\u2048\obj\Release\u2048 - Lukasz Jakowski.pdb
